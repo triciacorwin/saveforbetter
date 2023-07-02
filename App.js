@@ -5,7 +5,7 @@ export default function App() {
   let x = 1;
   return (
     <View style={styles.container}>
-      <Text>Hello World!</Text>
+      <Text>Hello World!!</Text>
       <StatusBar style="auto" />
     </View>
   );
